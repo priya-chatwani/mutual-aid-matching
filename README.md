@@ -1,3 +1,6 @@
+## App Description
+This React app allows AllTogether LA volunteers to match high-risk individuals with the closest available volunteer.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
